@@ -1,1 +1,1 @@
-### mysql-nextjs
+### fetching data from a mysql database using nextjs 
